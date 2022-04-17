@@ -1,11 +1,11 @@
-Bug JSON
 {
-“tester”:“Molchan”,
-“data”:18,
-“title”:“JSON_example_bug”,
-“summary”:“text support pages has grammar mistakes”,
-“platform”:“windows”,
-“priority”:“low”,
-“severite”:“low”,
-“status”:“new”,
-“author”:“Molchan”}
+"tester":"Molchan",
+ "data":"18_April_2022",
+   "title":"JSON_example_bug",
+   "summary":"text support pages has grammar mistakes",
+   "platform":"windows",
+   "priority":"low",
+   "severite":"low",
+   "status":"new",
+   "author":"Molchan"
+}
